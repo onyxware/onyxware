@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ongyx" alt="ongyx" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [ongyx.github.io/projects](ongyx.github.io/projects)
+- 👨‍💻 All of my projects are available at [ongyx.github.io/projects](https://ongyx.github.io/projects)
 
-- 📝 I regularly write articles on [ongyx.github.io](ongyx.github.io)
+- 📝 I regularly write articles on [ongyx.github.io](https://ongyx.github.io)
 
 - ⚡ Fun fact **i like 2 code a lot**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/https://ongyx.github.io/feed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://ongyx.github.io/feed" height="30" width="40" /></a>
+<a href="https://ongyx.github.io/feed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://ongyx.github.io/feed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
