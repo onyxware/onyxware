@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **i like 2 code a lot**
 
-### Blogs posts
+### Blogposts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
