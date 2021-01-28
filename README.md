@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Music Train (未来のミライ ED) (Eng. Translation)](https://ongyx.github.io/music-train/)
+- [Battling (I Will Fight) (Eng. Translation)](https://ongyx.github.io/battling/)
+- [Lagtrain (Eng. Translation)](https://ongyx.github.io/lagtrain/)
+- [Secret Elementary School Student (Eng. Translation)](https://ongyx.github.io/secret-elementary-school-student/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
