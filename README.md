@@ -13,10 +13,10 @@
 
 ### Blogposts
 <!-- BLOG-POST-LIST:START -->
+- [I Can’t Be Anyone Other Than Me (Eng. Translation)](https://ongyx.github.io/i-cant-be-anything-other-than-me/)
 - [Music Train (未来のミライ ED) (Eng. Translation)](https://ongyx.github.io/music-train/)
 - [Battling (I Will Fight) (Eng. Translation)](https://ongyx.github.io/battling/)
 - [Lagtrain (Eng. Translation)](https://ongyx.github.io/lagtrain/)
-- [Secret Elementary School Student (Eng. Translation)](https://ongyx.github.io/secret-elementary-school-student/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
