@@ -13,10 +13,10 @@
 
 ### Blogposts
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to my new blog!](https://ongyx.github.io/new-blog/)
-- [I Can’t Be Anyone Other Than Me (Eng. Translation)](https://ongyx.github.io/i-cant-be-anything-other-than-me/)
-- [Music Train (未来のミライ ED) (Eng. Translation)](https://ongyx.github.io/music-train/)
-- [Battling (I Will Fight) (Eng. Translation)](https://ongyx.github.io/battling/)
+- [Welcome to my new blog!](https://ongyx.github.io/fluff/new-blog/)
+- [I Can’t Be Anyone Other Than Me (Eng. Translation)](https://ongyx.github.io/song/i-cant-be-anything-other-than-me/)
+- [Music Train (未来のミライ ED) (Eng. Translation)](https://ongyx.github.io/song/music-train/)
+- [Battling (I Will Fight) (Eng. Translation)](https://ongyx.github.io/song/battling/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
